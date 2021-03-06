@@ -9,7 +9,7 @@
 #                                                                         #
 #                                                                         #
 # Subject:      Numerical methods.                                        #
-# Edited by:    Omar Guillen Fernandez                                    #
+# Edited by:    Omar Guillén Fernández                                    #
 # Date/hour:    02/12/2019   /  10:00                                     #
 # Institution:  INAOE                                                     #
 ###########################################################################
